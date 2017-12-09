@@ -1,0 +1,6 @@
+numpy==1.13.3
+matplotlib==2.1.0
+opencv-python==3.3.0.10
+scikit-image==0.13.1
+sklearn
+h5py==2.7.1
